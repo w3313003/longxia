@@ -1,6 +1,6 @@
 # longxia
 
-> A Vue.js project
+> 第二个 vue 项目 在线点餐
 
 ## Build Setup
 
