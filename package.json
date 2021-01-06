@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "better-scroll": "^0.4.0",
     "mint-ui": "^2.2.9",
     "pug": "^2.0.0-rc.3",
